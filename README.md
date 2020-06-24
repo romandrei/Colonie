@@ -1,2 +1,2 @@
 # Colonie
-Acesta este codul sursă al programului numit „Colonie”
+Acesta este codul sursă pentru „Colonie”
